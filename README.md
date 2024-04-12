@@ -5,7 +5,7 @@
 Clone the project and run this commands 
 
 ```bash
-npm npm install
+npm install
 ```
 
 ## Developing
@@ -13,7 +13,7 @@ npm npm install
 Once you've installed dependencies with `npm install` 
 
 ```bash
-npm npm run tauri dev
+npm run tauri dev
 
 ```
 
@@ -22,6 +22,6 @@ npm npm run tauri dev
 To create a production version of your app:
 
 ```bash
-npm npm run tauri build
+npm run tauri build
 ```
 
